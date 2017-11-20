@@ -1,0 +1,47 @@
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\bin\Debug\Implementation.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\bin\Debug\Implementation.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\Mocking\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\bin\Debug\Implementation.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\bin\Debug\Implementation.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\StateTest\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\bin\Debug\Implementation.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\bin\Debug\Implementation.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Example\01 StateTest\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\bin\Debug\Implementation.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\bin\Debug\Implementation.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab02\Starter\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\bin\Debug\Implementation.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\bin\Debug\Implementation.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.pdb
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\bin\Debug\Rhino.Mocks.dll
+C:\Users\guidol\Documents\Training UnitTestingAndMocking\Labs\Lab03\Example\Implementation.UnitTest\bin\Debug\Rhino.Mocks.xml
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.csprojResolveAssemblyReference.cache
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.dll
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.dll
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Implementation.UnitTest.pdb
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Implementation.dll
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Implementation.pdb
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\obj\Debug\Implementation.UnitTest.pdb
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Moq.dll
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Moq.pdb
+D:\Cursus UNITTST\Labs\Lab04\Example\Implementation.UnitTest\bin\Debug\Moq.xml
